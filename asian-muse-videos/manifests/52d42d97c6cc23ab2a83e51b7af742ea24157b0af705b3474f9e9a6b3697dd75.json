@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "tifanhay.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 7940441,
+  "sha256": "52d42d97c6cc23ab2a83e51b7af742ea24157b0af705b3474f9e9a6b3697dd75",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 7940441,
+      "offset": 0,
+      "sha256": "52d42d97c6cc23ab2a83e51b7af742ea24157b0af705b3474f9e9a6b3697dd75",
+      "blobSha": "e9809e9d3c3385fa8f3f6c3ffd4211e0d31653c3",
+      "path": "asian-muse-videos/chunks/52d42d97c6cc23ab2a83e51b7af742ea24157b0af705b3474f9e9a6b3697dd75/00000-52d42d97c6cc23ab.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/52d42d97c6cc23ab2a83e51b7af742ea24157b0af705b3474f9e9a6b3697dd75.json",
+  "uploadedAt": "2026-07-29T16:16:55.325Z"
+}
