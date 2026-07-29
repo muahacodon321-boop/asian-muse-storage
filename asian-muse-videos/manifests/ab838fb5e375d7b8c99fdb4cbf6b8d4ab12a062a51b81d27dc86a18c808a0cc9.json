@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Vibes (1).mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 3611218,
+  "sha256": "ab838fb5e375d7b8c99fdb4cbf6b8d4ab12a062a51b81d27dc86a18c808a0cc9",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 3611218,
+      "offset": 0,
+      "sha256": "ab838fb5e375d7b8c99fdb4cbf6b8d4ab12a062a51b81d27dc86a18c808a0cc9",
+      "blobSha": "28648409d5328338c2a6ed402cb86233f576b58c",
+      "path": "asian-muse-videos/chunks/ab838fb5e375d7b8c99fdb4cbf6b8d4ab12a062a51b81d27dc86a18c808a0cc9/00000-ab838fb5e375d7b8.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/ab838fb5e375d7b8c99fdb4cbf6b8d4ab12a062a51b81d27dc86a18c808a0cc9.json",
+  "uploadedAt": "2026-07-29T16:18:47.045Z"
+}
