@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Nhan_sắc_toàn_cầu_2024-2026.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 11929756,
+  "sha256": "4d01c10fd965c03b6c428de5f6e7f816d53560c50068fa28cd14329c5ef602b8",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 11929756,
+      "offset": 0,
+      "sha256": "4d01c10fd965c03b6c428de5f6e7f816d53560c50068fa28cd14329c5ef602b8",
+      "blobSha": "d2b4861a640bbf4f4bf5fe42eaebba00d1f011fc",
+      "path": "asian-muse-videos/chunks/4d01c10fd965c03b6c428de5f6e7f816d53560c50068fa28cd14329c5ef602b8/00000-4d01c10fd965c03b.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/4d01c10fd965c03b6c428de5f6e7f816d53560c50068fa28cd14329c5ef602b8.json",
+  "uploadedAt": "2026-07-29T18:19:48.980Z"
+}

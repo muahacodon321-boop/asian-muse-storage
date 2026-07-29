@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Điều gì xảy ra với não bộ khi bạn thức trắng 72 giờ-.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 53614462,
+  "sha256": "eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "8442ba48a1c5a75499d3e4171a39124dd676edc3aa04a1ad303b0f413ce38621",
+      "blobSha": "0e7e572920ea37ac98d17ba9b17c58022621f028",
+      "path": "asian-muse-videos/chunks/eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7/00000-8442ba48a1c5a754.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 16777216,
+      "offset": 16777216,
+      "sha256": "ec10f5990fcd323e72c7fe5e2fad331042a44cb4ba1af0e49b059819d3685a68",
+      "blobSha": "0f0ea761f9a47630ba748c8339af0a093ea6c4a2",
+      "path": "asian-muse-videos/chunks/eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7/00001-ec10f5990fcd323e.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 2,
+      "size": 16777216,
+      "offset": 33554432,
+      "sha256": "adac25185dbe93dacc93b7cc28bea89790d63474f62f43d42d4354b57ad0f13c",
+      "blobSha": "bd633355a556c046dbfd9a30f0d2bbbd3e8158e7",
+      "path": "asian-muse-videos/chunks/eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7/00002-adac25185dbe93da.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 3,
+      "size": 3282814,
+      "offset": 50331648,
+      "sha256": "7dd9a1ea74cd03eefaddb0d266b5d6d1c23a1efdc340f79aa29ceaa4663c5e04",
+      "blobSha": "c87e863ee6314c4db90ed8ac64a27edc005c5692",
+      "path": "asian-muse-videos/chunks/eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7/00003-7dd9a1ea74cd03ee.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/eef005670f98ff039cce98757871d68466b76ba43fa1b4a4bed6ea30716658f7.json",
+  "uploadedAt": "2026-07-29T18:04:33.696Z"
+}
