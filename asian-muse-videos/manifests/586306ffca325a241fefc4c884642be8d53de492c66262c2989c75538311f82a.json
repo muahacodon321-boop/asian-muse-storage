@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Jesu_Master_1783774272400.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 11216682,
+  "sha256": "586306ffca325a241fefc4c884642be8d53de492c66262c2989c75538311f82a",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 11216682,
+      "offset": 0,
+      "sha256": "586306ffca325a241fefc4c884642be8d53de492c66262c2989c75538311f82a",
+      "blobSha": "8edb292706307471461a3de0ab053a85a72d800f",
+      "path": "asian-muse-videos/chunks/586306ffca325a241fefc4c884642be8d53de492c66262c2989c75538311f82a/00000-586306ffca325a24.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/586306ffca325a241fefc4c884642be8d53de492c66262c2989c75538311f82a.json",
+  "uploadedAt": "2026-07-29T16:41:22.934Z"
+}
