@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Places Humans Can't Visit_VN.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 77770307,
+  "sha256": "8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "9985cca8e5e14298911d8c156d041d60002b5d9ad8c4536c8b8334bc084362ee",
+      "blobSha": "f61862140af3b985d59de485100f8e62a613aef8",
+      "path": "asian-muse-videos/chunks/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3/00000-9985cca8e5e14298.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 16777216,
+      "offset": 16777216,
+      "sha256": "0a88d709b7f655daeab6197599dc39d0c34096e4684c473b59470a3ed8066ee1",
+      "blobSha": "c0f10ea0e0a5218aeac3ec7bcd056a75a2aa6e90",
+      "path": "asian-muse-videos/chunks/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3/00001-0a88d709b7f655da.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 2,
+      "size": 16777216,
+      "offset": 33554432,
+      "sha256": "85e02ea8a6af2185ce7745f92ea21682fa456d32512be8a4a579f661a5170d0f",
+      "blobSha": "037291cdac2de7d040b7484ac5c3d63fd7a1581f",
+      "path": "asian-muse-videos/chunks/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3/00002-85e02ea8a6af2185.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 3,
+      "size": 16777216,
+      "offset": 50331648,
+      "sha256": "5a628bdbb18da6936ae3734072af198e52e35ac215b7e27f6b72e3dde048d9b7",
+      "blobSha": "2e3858f36170ef74f85dac398e96932e8f2adf24",
+      "path": "asian-muse-videos/chunks/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3/00003-5a628bdbb18da693.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 4,
+      "size": 10661443,
+      "offset": 67108864,
+      "sha256": "570b70e848f0dbf3991b602907342af877526a78306fde12c34a8615e45c6a10",
+      "blobSha": "81dedc63e94a86c99861ccdf40f4e0d130cb8cb3",
+      "path": "asian-muse-videos/chunks/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3/00004-570b70e848f0dbf3.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/8e47f36cfdf28be138962ead58c48dea0668c0cab1a5d9b95bbf907b176b70a3.json",
+  "uploadedAt": "2026-07-29T17:40:36.900Z"
+}
