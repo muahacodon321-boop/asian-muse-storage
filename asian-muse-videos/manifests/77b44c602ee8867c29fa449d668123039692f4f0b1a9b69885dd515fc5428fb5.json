@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "flow_tiktok_1783754535445.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 1914903,
+  "sha256": "77b44c602ee8867c29fa449d668123039692f4f0b1a9b69885dd515fc5428fb5",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 1914903,
+      "offset": 0,
+      "sha256": "77b44c602ee8867c29fa449d668123039692f4f0b1a9b69885dd515fc5428fb5",
+      "blobSha": "a70065defd282f2b0e29829ab013bc34cfdcac2c",
+      "path": "asian-muse-videos/chunks/77b44c602ee8867c29fa449d668123039692f4f0b1a9b69885dd515fc5428fb5/00000-77b44c602ee8867c.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/77b44c602ee8867c29fa449d668123039692f4f0b1a9b69885dd515fc5428fb5.json",
+  "uploadedAt": "2026-07-29T16:26:39.845Z"
+}
