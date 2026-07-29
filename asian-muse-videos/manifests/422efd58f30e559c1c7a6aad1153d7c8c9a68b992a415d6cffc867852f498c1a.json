@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Woman_waving_with_teary_smile_202607112228.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 1646655,
+  "sha256": "422efd58f30e559c1c7a6aad1153d7c8c9a68b992a415d6cffc867852f498c1a",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 1646655,
+      "offset": 0,
+      "sha256": "422efd58f30e559c1c7a6aad1153d7c8c9a68b992a415d6cffc867852f498c1a",
+      "blobSha": "03aea962004bcc42a866b5fd879cb02bbd26ce5a",
+      "path": "asian-muse-videos/chunks/422efd58f30e559c1c7a6aad1153d7c8c9a68b992a415d6cffc867852f498c1a/00000-422efd58f30e559c.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/422efd58f30e559c1c7a6aad1153d7c8c9a68b992a415d6cffc867852f498c1a.json",
+  "uploadedAt": "2026-07-29T16:35:20.147Z"
+}
