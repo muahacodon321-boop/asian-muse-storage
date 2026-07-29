@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "tiktok_idol_1783757758512.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 2340729,
+  "sha256": "0a9e24b8c330a8df773818a9f73553b9e9d658948e13f70563d556893d6d8963",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 2340729,
+      "offset": 0,
+      "sha256": "0a9e24b8c330a8df773818a9f73553b9e9d658948e13f70563d556893d6d8963",
+      "blobSha": "6c5efefa032f7315cd84c006121d5024b27a9bd3",
+      "path": "asian-muse-videos/chunks/0a9e24b8c330a8df773818a9f73553b9e9d658948e13f70563d556893d6d8963/00000-0a9e24b8c330a8df.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/0a9e24b8c330a8df773818a9f73553b9e9d658948e13f70563d556893d6d8963.json",
+  "uploadedAt": "2026-07-29T16:28:27.527Z"
+}
