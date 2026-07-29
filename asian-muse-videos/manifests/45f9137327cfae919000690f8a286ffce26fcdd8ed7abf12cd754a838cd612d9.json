@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Create_a_photorealistic_lifest.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 2491545,
+  "sha256": "45f9137327cfae919000690f8a286ffce26fcdd8ed7abf12cd754a838cd612d9",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 2491545,
+      "offset": 0,
+      "sha256": "45f9137327cfae919000690f8a286ffce26fcdd8ed7abf12cd754a838cd612d9",
+      "blobSha": "52227a508c11b0075ec5b98ff6d470366571a508",
+      "path": "asian-muse-videos/chunks/45f9137327cfae919000690f8a286ffce26fcdd8ed7abf12cd754a838cd612d9/00000-45f9137327cfae91.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/45f9137327cfae919000690f8a286ffce26fcdd8ed7abf12cd754a838cd612d9.json",
+  "uploadedAt": "2026-07-29T16:14:59.527Z"
+}
