@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "tiktok_batch_1783767125202_2.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 1845442,
+  "sha256": "1b6f7dc7f38a845821176c880f085bebd502523a873ae0c8ed7b7291540788b1",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 1845442,
+      "offset": 0,
+      "sha256": "1b6f7dc7f38a845821176c880f085bebd502523a873ae0c8ed7b7291540788b1",
+      "blobSha": "b8ca725b2830418d54eac34c757092f9b5576333",
+      "path": "asian-muse-videos/chunks/1b6f7dc7f38a845821176c880f085bebd502523a873ae0c8ed7b7291540788b1/00000-1b6f7dc7f38a8458.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/1b6f7dc7f38a845821176c880f085bebd502523a873ae0c8ed7b7291540788b1.json",
+  "uploadedAt": "2026-07-29T16:43:52.598Z"
+}
