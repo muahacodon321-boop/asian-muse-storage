@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Bioluminescent_Animals_VI_16_9.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 26223047,
+  "sha256": "a8c4d47a09aff346d7cf72dee61479253ead1a94e0d9203c93260d2dcfaf0a33",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "248be575c73bd51c9abf216e3393c7c4fc8db86e4cdd1707b1476356e9a9554c",
+      "blobSha": "6dfe6ec8b17477157a85989c92a73cfef3a0bc21",
+      "path": "asian-muse-videos/chunks/a8c4d47a09aff346d7cf72dee61479253ead1a94e0d9203c93260d2dcfaf0a33/00000-248be575c73bd51c.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 9445831,
+      "offset": 16777216,
+      "sha256": "2b87001397baa6e2e95a1bb533d771556a412a0621fb6cb63878209a85f60ab4",
+      "blobSha": "73ae781342ee60b6f2dd73a9c53ac9541acf5346",
+      "path": "asian-muse-videos/chunks/a8c4d47a09aff346d7cf72dee61479253ead1a94e0d9203c93260d2dcfaf0a33/00001-2b87001397baa6e2.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/a8c4d47a09aff346d7cf72dee61479253ead1a94e0d9203c93260d2dcfaf0a33.json",
+  "uploadedAt": "2026-07-29T18:23:52.364Z"
+}
