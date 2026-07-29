@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "A_bright_everyday_lifestyle_vl (1).mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 2601203,
+  "sha256": "42ca5913b038e9325f9c3e383ed5260d76622b812f2266a3e682609aa63ab1c0",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 2601203,
+      "offset": 0,
+      "sha256": "42ca5913b038e9325f9c3e383ed5260d76622b812f2266a3e682609aa63ab1c0",
+      "blobSha": "b85b4ebccdc0ea7164be2a7f86fdfa70d83a1ebd",
+      "path": "asian-muse-videos/chunks/42ca5913b038e9325f9c3e383ed5260d76622b812f2266a3e682609aa63ab1c0/00000-42ca5913b038e932.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/42ca5913b038e9325f9c3e383ed5260d76622b812f2266a3e682609aa63ab1c0.json",
+  "uploadedAt": "2026-07-29T16:18:10.165Z"
+}
