@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "tiktok_beauty_1783535752533.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 1898186,
+  "sha256": "ad98be2a4932283922c3ba76294d2ee6e56827e71bf627f18be956ed8ad13833",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 1898186,
+      "offset": 0,
+      "sha256": "ad98be2a4932283922c3ba76294d2ee6e56827e71bf627f18be956ed8ad13833",
+      "blobSha": "55e64cc707bc2a3c7a9761c54d7248c941255633",
+      "path": "asian-muse-videos/chunks/ad98be2a4932283922c3ba76294d2ee6e56827e71bf627f18be956ed8ad13833/00000-ad98be2a49322839.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/ad98be2a4932283922c3ba76294d2ee6e56827e71bf627f18be956ed8ad13833.json",
+  "uploadedAt": "2026-07-29T16:15:38.377Z"
+}
