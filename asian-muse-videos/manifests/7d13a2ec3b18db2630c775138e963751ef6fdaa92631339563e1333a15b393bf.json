@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "batch_8_dpqjvs69j.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 2241144,
+  "sha256": "7d13a2ec3b18db2630c775138e963751ef6fdaa92631339563e1333a15b393bf",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 2241144,
+      "offset": 0,
+      "sha256": "7d13a2ec3b18db2630c775138e963751ef6fdaa92631339563e1333a15b393bf",
+      "blobSha": "9191be0581989ca646479a3107ab5dccb5a96916",
+      "path": "asian-muse-videos/chunks/7d13a2ec3b18db2630c775138e963751ef6fdaa92631339563e1333a15b393bf/00000-7d13a2ec3b18db26.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/7d13a2ec3b18db2630c775138e963751ef6fdaa92631339563e1333a15b393bf.json",
+  "uploadedAt": "2026-07-29T19:19:54.190Z"
+}
