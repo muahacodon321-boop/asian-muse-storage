@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "TikTok_Full_Studio_1783770523071.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 5914492,
+  "sha256": "36657e1bd15c67f59cbc73efdd8415db30fa2d84fd466de620f4901c07645aeb",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 5914492,
+      "offset": 0,
+      "sha256": "36657e1bd15c67f59cbc73efdd8415db30fa2d84fd466de620f4901c07645aeb",
+      "blobSha": "26173165156a703ba9562122f9be9e086ea1222f",
+      "path": "asian-muse-videos/chunks/36657e1bd15c67f59cbc73efdd8415db30fa2d84fd466de620f4901c07645aeb/00000-36657e1bd15c67f5.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/36657e1bd15c67f59cbc73efdd8415db30fa2d84fd466de620f4901c07645aeb.json",
+  "uploadedAt": "2026-07-29T16:30:13.973Z"
+}
