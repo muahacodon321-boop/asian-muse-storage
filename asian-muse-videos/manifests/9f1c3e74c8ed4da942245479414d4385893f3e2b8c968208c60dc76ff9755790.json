@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Beautiful_young_woman_flashin.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 2646978,
+  "sha256": "9f1c3e74c8ed4da942245479414d4385893f3e2b8c968208c60dc76ff9755790",
+  "chunkSize": 67108864,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 2646978,
+      "offset": 0,
+      "sha256": "9f1c3e74c8ed4da942245479414d4385893f3e2b8c968208c60dc76ff9755790",
+      "blobSha": "8a049c632269b772c6bd0cb4f6c215bcddfd0a98",
+      "path": "asian-muse-videos/chunks/9f1c3e74c8ed4da942245479414d4385893f3e2b8c968208c60dc76ff9755790/00000-9f1c3e74c8ed4da9.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/9f1c3e74c8ed4da942245479414d4385893f3e2b8c968208c60dc76ff9755790.json",
+  "uploadedAt": "2026-07-29T16:16:35.533Z"
+}
