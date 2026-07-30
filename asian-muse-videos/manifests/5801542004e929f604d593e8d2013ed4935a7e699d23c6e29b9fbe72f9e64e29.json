@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "lyric_video.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 166709643,
+  "sha256": "5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "7016d6cdd60541f1d86803d2a90f501da3465cb8f3100a7e8db2638995178b39",
+      "blobSha": "2e67ef4f965234e9643e58468ea60562cc5385a8",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00000-7016d6cdd60541f1.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 16777216,
+      "offset": 16777216,
+      "sha256": "de38ad01049d24d42c520bd02f3c2be2772fd205f0829de765429f1041e34c91",
+      "blobSha": "f79ae09c3d19f7b992fe87ba21e728e49e4f4929",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00001-de38ad01049d24d4.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 2,
+      "size": 16777216,
+      "offset": 33554432,
+      "sha256": "3d67160a78b4a21e8c4b0acd2a7cabb5f987c8733991063a1c1358512cafaec0",
+      "blobSha": "fc4c3f14e450b15f93d3e4c03baecd6392ed1e50",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00002-3d67160a78b4a21e.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 3,
+      "size": 16777216,
+      "offset": 50331648,
+      "sha256": "b9023e549fff3560ac8a45b68fbacb1a52f8dbdac34c943da462677ecf1e7b9f",
+      "blobSha": "a94b2a29b995027cf94b7f48b0ae1e567f4d372e",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00003-b9023e549fff3560.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 4,
+      "size": 16777216,
+      "offset": 67108864,
+      "sha256": "1850c15b4d3013de73ce8427f97a2d00548fe3cfb18e78895092ef94895bac00",
+      "blobSha": "ed95db2791f7d007697649af502f0e492956047e",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00004-1850c15b4d3013de.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 5,
+      "size": 16777216,
+      "offset": 83886080,
+      "sha256": "24c74b13a8ce3d6e8578dfd898188bc5510a9e805e933fa0982f9474add730d7",
+      "blobSha": "0e00b279ee8b571750fdef2cfe4e35fc98d5953e",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00005-24c74b13a8ce3d6e.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 6,
+      "size": 16777216,
+      "offset": 100663296,
+      "sha256": "a78152e62d914cfe25cbe14a356e7115eb82eb4f413c99d0179b37f8635e7684",
+      "blobSha": "3ade15687381b95ed738fb36b4f43279438ff382",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00006-a78152e62d914cfe.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 7,
+      "size": 16777216,
+      "offset": 117440512,
+      "sha256": "f2a6a028ab9f99a31e50a5c90cb84e5f31d3128880679630798822230b422732",
+      "blobSha": "6b5224d336670ed19e243f489767251bcf40a1ad",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00007-f2a6a028ab9f99a3.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 8,
+      "size": 16777216,
+      "offset": 134217728,
+      "sha256": "835693837bf94163cb3c454bc19cb5b08d9cbc099abea49d73d07c2192daacf2",
+      "blobSha": "ce365786affd6427f3c0d0063f15201345b45e68",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00008-835693837bf94163.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 9,
+      "size": 15714699,
+      "offset": 150994944,
+      "sha256": "89b1b1df2165d0705d91e23cfe2b57d36a4633aa9d9039afb17bef49ddab05af",
+      "blobSha": "43d680d07535b780667b571beb419741dc218eae",
+      "path": "asian-muse-videos/chunks/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29/00009-89b1b1df2165d070.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/5801542004e929f604d593e8d2013ed4935a7e699d23c6e29b9fbe72f9e64e29.json",
+  "uploadedAt": "2026-07-30T07:50:08.080Z"
+}
