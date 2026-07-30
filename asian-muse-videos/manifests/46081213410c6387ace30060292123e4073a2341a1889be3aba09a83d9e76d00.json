@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "grok-video-35cd2719-1515-49b3-8ef4-0df71266aca9.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 5799009,
+  "sha256": "46081213410c6387ace30060292123e4073a2341a1889be3aba09a83d9e76d00",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 5799009,
+      "offset": 0,
+      "sha256": "46081213410c6387ace30060292123e4073a2341a1889be3aba09a83d9e76d00",
+      "blobSha": "e2cfbdcc0c1cc384049a5efbcd1d7a1cbc581858",
+      "path": "asian-muse-videos/chunks/46081213410c6387ace30060292123e4073a2341a1889be3aba09a83d9e76d00/00000-46081213410c6387.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/46081213410c6387ace30060292123e4073a2341a1889be3aba09a83d9e76d00.json",
+  "uploadedAt": "2026-07-30T04:57:38.591Z"
+}
