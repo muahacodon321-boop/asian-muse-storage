@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Final_Lesson_1784787284342.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 15935115,
+  "sha256": "1f9ed4ee4a39ed4ea9f52f4df448d56fb464d2b1eece6f88ce62904336dde8fa",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 15935115,
+      "offset": 0,
+      "sha256": "1f9ed4ee4a39ed4ea9f52f4df448d56fb464d2b1eece6f88ce62904336dde8fa",
+      "blobSha": "eae979980c9e68513923be06cb0897d5fd49c3b9",
+      "path": "asian-muse-videos/chunks/1f9ed4ee4a39ed4ea9f52f4df448d56fb464d2b1eece6f88ce62904336dde8fa/00000-1f9ed4ee4a39ed4e.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/1f9ed4ee4a39ed4ea9f52f4df448d56fb464d2b1eece6f88ce62904336dde8fa.json",
+  "uploadedAt": "2026-07-30T05:14:34.905Z"
+}
