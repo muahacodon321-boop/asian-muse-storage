@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "turntable-9x16-70s-1785254511374-6e7b7c-dubbed.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 9767392,
+  "sha256": "8c56a7f2ca02aa5fa36a9da02f6e69cbae1b4b8cc1f0e4837898ad4f64e1cb82",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 9767392,
+      "offset": 0,
+      "sha256": "8c56a7f2ca02aa5fa36a9da02f6e69cbae1b4b8cc1f0e4837898ad4f64e1cb82",
+      "blobSha": "eac485c54288eb1f63530356d0ab33975d3b0afe",
+      "path": "asian-muse-videos/chunks/8c56a7f2ca02aa5fa36a9da02f6e69cbae1b4b8cc1f0e4837898ad4f64e1cb82/00000-8c56a7f2ca02aa5f.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/8c56a7f2ca02aa5fa36a9da02f6e69cbae1b4b8cc1f0e4837898ad4f64e1cb82.json",
+  "uploadedAt": "2026-07-30T05:20:57.636Z"
+}

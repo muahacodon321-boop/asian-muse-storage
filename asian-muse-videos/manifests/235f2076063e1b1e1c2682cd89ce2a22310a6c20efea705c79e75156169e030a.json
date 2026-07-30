@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "turntable-9x16-90s-1785253389416-945409-dubbed.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 24245291,
+  "sha256": "235f2076063e1b1e1c2682cd89ce2a22310a6c20efea705c79e75156169e030a",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "bcb5ded69b52124dbdaa46f3debf2f6abcbd2e329876bcf0663c060f2bf02bf9",
+      "blobSha": "d29817d339483bf6ccd6eb15682764ba5dc69b7b",
+      "path": "asian-muse-videos/chunks/235f2076063e1b1e1c2682cd89ce2a22310a6c20efea705c79e75156169e030a/00000-bcb5ded69b52124d.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 7468075,
+      "offset": 16777216,
+      "sha256": "17b0b7996a1354a68ca1272806c732b14fef7aa9d23472c1d7d355c3f8973b37",
+      "blobSha": "f30fc6c362126429f2b39d39513db9551d013b90",
+      "path": "asian-muse-videos/chunks/235f2076063e1b1e1c2682cd89ce2a22310a6c20efea705c79e75156169e030a/00001-17b0b7996a1354a6.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/235f2076063e1b1e1c2682cd89ce2a22310a6c20efea705c79e75156169e030a.json",
+  "uploadedAt": "2026-07-30T05:19:35.726Z"
+}
