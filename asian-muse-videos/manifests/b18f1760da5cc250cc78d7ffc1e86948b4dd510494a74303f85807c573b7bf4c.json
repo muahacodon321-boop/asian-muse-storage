@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "khám_phá_cuộc_chiến_chip_bán_dẫn_toàn_cầu_và_sự_bùng_nổ_trí_tuệ_nhân_tạo_infographic.webm",
+  "mimeType": "video/webm",
+  "totalSize": 6206566,
+  "sha256": "b18f1760da5cc250cc78d7ffc1e86948b4dd510494a74303f85807c573b7bf4c",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 6206566,
+      "offset": 0,
+      "sha256": "b18f1760da5cc250cc78d7ffc1e86948b4dd510494a74303f85807c573b7bf4c",
+      "blobSha": "32434a391113ea8c4e5541353397c7f18b240ec8",
+      "path": "asian-muse-videos/chunks/b18f1760da5cc250cc78d7ffc1e86948b4dd510494a74303f85807c573b7bf4c/00000-b18f1760da5cc250.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/b18f1760da5cc250cc78d7ffc1e86948b4dd510494a74303f85807c573b7bf4c.json",
+  "uploadedAt": "2026-07-30T04:54:26.867Z"
+}

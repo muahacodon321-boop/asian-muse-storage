@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "MangaVideo_1784206841681.webm",
+  "mimeType": "video/webm",
+  "totalSize": 26536423,
+  "sha256": "310f4f3c71578de4cab750bef08c98bb4490fb9500f317b47f14d7f23466551f",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "e386dc9600ad5a717dfb7c863c3324fa3613ebb9423db443e9ca7d6f6f20d339",
+      "blobSha": "d449bbd9b0b31d5eec10b36244e6f687dcd5d872",
+      "path": "asian-muse-videos/chunks/310f4f3c71578de4cab750bef08c98bb4490fb9500f317b47f14d7f23466551f/00000-e386dc9600ad5a71.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 9759207,
+      "offset": 16777216,
+      "sha256": "568fe537d747160bd6c20b16d656cf385eb77eb584c7198b2724e5f144038003",
+      "blobSha": "bfce5cef99f05e473909edf4529c332aae66146c",
+      "path": "asian-muse-videos/chunks/310f4f3c71578de4cab750bef08c98bb4490fb9500f317b47f14d7f23466551f/00001-568fe537d747160b.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/310f4f3c71578de4cab750bef08c98bb4490fb9500f317b47f14d7f23466551f.json",
+  "uploadedAt": "2026-07-30T04:48:23.120Z"
+}
