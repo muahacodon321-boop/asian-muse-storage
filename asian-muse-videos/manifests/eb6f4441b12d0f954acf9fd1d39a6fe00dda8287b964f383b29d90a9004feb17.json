@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "anh_h_ng_b_ng___i.webm",
+  "mimeType": "video/webm",
+  "totalSize": 52417906,
+  "sha256": "eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16777216,
+      "offset": 0,
+      "sha256": "e3e22510716d35cf3657f1ed533c449d79bfbda939c9a0342d53c4033671b6cf",
+      "blobSha": "2320beac45e035741c4d8ed61a5307ee5aa30eeb",
+      "path": "asian-muse-videos/chunks/eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17/00000-e3e22510716d35cf.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 1,
+      "size": 16777216,
+      "offset": 16777216,
+      "sha256": "0b2ba781ad55d195c83b4a4555bcda9eed607a7ddb1182adf333fceb760d0f5d",
+      "blobSha": "b466a04e56f7719fca3f02df976b62002ae05fde",
+      "path": "asian-muse-videos/chunks/eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17/00001-0b2ba781ad55d195.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 2,
+      "size": 16777216,
+      "offset": 33554432,
+      "sha256": "8838f352b5334ad2257ae04782302f82287b5479469f285c1fbf284c2726fa39",
+      "blobSha": "4bcc79dc0fae62594e6c96c824e0aa30cd117b51",
+      "path": "asian-muse-videos/chunks/eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17/00002-8838f352b5334ad2.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    },
+    {
+      "index": 3,
+      "size": 2086258,
+      "offset": 50331648,
+      "sha256": "8a0908c90dfff87979136d2a56d2d712e073c3b7889d607fd344bc0ca1a9b8f5",
+      "blobSha": "bcc1fc71bc767804fc86e8401f637bba1e08488c",
+      "path": "asian-muse-videos/chunks/eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17/00003-8a0908c90dfff879.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/eb6f4441b12d0f954acf9fd1d39a6fe00dda8287b964f383b29d90a9004feb17.json",
+  "uploadedAt": "2026-07-30T05:02:16.296Z"
+}
