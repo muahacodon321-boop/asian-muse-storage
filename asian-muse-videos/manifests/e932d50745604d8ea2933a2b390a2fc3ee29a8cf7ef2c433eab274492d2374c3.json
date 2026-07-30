@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "Virtual_Lesson_1784820500569.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 16727376,
+  "sha256": "e932d50745604d8ea2933a2b390a2fc3ee29a8cf7ef2c433eab274492d2374c3",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 16727376,
+      "offset": 0,
+      "sha256": "e932d50745604d8ea2933a2b390a2fc3ee29a8cf7ef2c433eab274492d2374c3",
+      "blobSha": "8a0e4ebf995753d450fdb7950b05f88e07f87ec5",
+      "path": "asian-muse-videos/chunks/e932d50745604d8ea2933a2b390a2fc3ee29a8cf7ef2c433eab274492d2374c3/00000-e932d50745604d8e.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/e932d50745604d8ea2933a2b390a2fc3ee29a8cf7ef2c433eab274492d2374c3.json",
+  "uploadedAt": "2026-07-30T05:15:19.078Z"
+}
