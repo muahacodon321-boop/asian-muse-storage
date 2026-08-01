@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "provider": "github-chunks",
+  "repositoryId": "muahacodon321-boop/asian-muse-storage",
+  "originalName": "lyric_video_1783143907.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 9402982,
+  "sha256": "f68340b0c92553cef02d0c31941b43e2c5019cb5bb355ed6182979279a49f33a",
+  "chunkSize": 16777216,
+  "chunks": [
+    {
+      "index": 0,
+      "size": 9402982,
+      "offset": 0,
+      "sha256": "f68340b0c92553cef02d0c31941b43e2c5019cb5bb355ed6182979279a49f33a",
+      "blobSha": "14abe6b0165cbd576397583e9fa754ece4061ef7",
+      "path": "asian-muse-videos/chunks/f68340b0c92553cef02d0c31941b43e2c5019cb5bb355ed6182979279a49f33a/00000-f68340b0c92553ce.part",
+      "owner": "muahacodon321-boop",
+      "repository": "asian-muse-storage",
+      "branch": "main"
+    }
+  ],
+  "manifestPath": "asian-muse-videos/manifests/f68340b0c92553cef02d0c31941b43e2c5019cb5bb355ed6182979279a49f33a.json",
+  "uploadedAt": "2026-08-01T14:30:19.435Z"
+}
